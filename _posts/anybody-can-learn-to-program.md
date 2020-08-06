@@ -1,3 +1,7 @@
+---
+layout: post
+title: Anybody Can Learn to Program
+---
 ## Anybody Can Learn to Program
 Reginald Edwards, PhD
 April 2020
